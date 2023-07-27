@@ -1,2 +1,5 @@
 # RestaurantShare_with_Django
-장고를 통해 RestaurantShare 사이트를 만들어 봅시다.
+### Django 한그릇 뚝딱. 멀티잇 K-digital 
+저자: 문범우
+3장 독학 실습
+
